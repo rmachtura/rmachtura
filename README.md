@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafael Machtura
-- 👀 I’m interested in development and databases
-- 🌱 I’m currently learning c# and MySql
+- 👀 I’m interested in development, databases and Data Science
+- 🌱 I’m currently learning c#, Sql, Python and Data Science
 - 💞️ I’m looking to collaborate on everything i can
 - 📫 How to reach me rmachtura@gmail.com
 
